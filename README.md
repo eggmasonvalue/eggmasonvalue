@@ -2,7 +2,7 @@
 
 [pi-subagent](https://github.com/eggmasonvalue/pi-subagent) - Aims to be the most LLM-empowering [pi](pi.dev) subagent extension - intentionally misses out on typical subagent features yet provides uncommon ones - all to provide a thin capable tool that stays true to philosophy
 
-[antigravity-agents](https://github.com/eggmasonvalue/antigravity-agents) - custom google antigravity main agents that offers nearly the same functionality with up to 55% and 70% fewer tokens in the system prompt and defensive guidelines to avoid tool calls with verbose output for significantly cleaner context through-session
+[antigravity-agents](https://github.com/eggmasonvalue/antigravity-agents) - custom google antigravity main agents that offers nearly the same functionality with up to 55% and 70% fewer tokens in the system prompt and defensive guidelines to compensate for poor run_command tool design for significantly cleaner context through-session
 
 [secstack](https://github.com/eggmasonvalue/secstack) - fully custom pi config for full-stack US-listed company research - custom system prompt, tools and a set of composable skills. 7500+ lines within skills yet very thin surface to the agent due to meticulously followed progressive disclosure
 
