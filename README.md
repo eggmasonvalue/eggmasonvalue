@@ -1,4 +1,4 @@
-## Building for agents; Clean Context is the new Clean Code
+## Building for agents
 
 [pi-subagent](https://github.com/eggmasonvalue/pi-subagent) - Aims to be the most LLM-empowering pi subagent - intentionally designed subagent to provide a thin yet capable interface that puts the main agent in control - with human and agent observability, steerability and model policy
 
