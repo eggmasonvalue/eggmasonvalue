@@ -10,7 +10,7 @@
 
 [jules-autoresearch](https://github.com/eggmasonvalue/jules-autoresearch) - **agent loop engineering** - autoresearch AI agent skill for long-running agent loops delegated to Google Jules coding agent in the cloud
 
-[tracky-mcp](https://github.com/eggmasonvalue/tracky-mcp.git) - agent-first smart body scale companion - an MCP server for tracky(Yolanda/Feelfit) smart body scales with an agent skill to interpret that data
+[tracky](https://github.com/eggmasonvalue/tracky.git) - agent-first smart body scale companion - an MCP server for tracky(Yolanda/Feelfit) smart body scales with an agent skill to interpret that data
 
 ------
 
